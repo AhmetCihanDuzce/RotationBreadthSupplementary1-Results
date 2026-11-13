@@ -1,0 +1,24 @@
+{
+  "algorithm": "SHA-256",
+  "scope": "Every distributed file except this manifest",
+  "files": {
+    "DATA_DICTIONARY.md": "818de9422a9b2e81846527e5ca772a0a18e506598bb439fb78cca57b0bdf1d34",
+    "K17_STRUCTURAL_CERTIFICATE.md": "7d021cebcba08498489bdbddc8c3d3201f049ec744ac7b05e15f97818ab4741c",
+    "PROTOCOL_AND_CERTIFICATION.md": "a49d5c79ce7cdb124db9432b4ee08e5b727c0b0bc1bb636d4918e31ec06c7157",
+    "README.md": "d3380d5bc1b4ac199302323c857ba9bd844b57cf3f6ed2be1d6d230e4b756f20",
+    "Supplementary_Material_EN.docx": "2788764b0e457de63ec5b420dd42431c06d2ffede3163c597eaee40cce78226e",
+    "evidence/COMMON_INPUT_AND_MODEL_HASHES.json": "79bbbe5b52b4c55e63bef77907fb7adf047370419a127fe90f827ff71cbdffb5",
+    "evidence/METRICS_AND_QA.json": "792163d40e476bd9f75fbe17130564c7313e76659212afd7ac066b0893a5eee9",
+    "evidence/SEEDS_AND_SETTINGS.json": "3347636ec8e9f33f5eff0768b566d02f99505188f65a51f76945ee38365c04b4",
+    "evidence/SELECTED_WITNESSES.json": "ac517a3da96ce102134bf400ecef7a83676efe7a22123155c860399c350ae785",
+    "figures/Figure1_global_EN.png": "61108e621507019061bb0001d43f5cbb8938079400f3819602c9876e8b7e9d2c",
+    "figures/Figure2_resolution_EN.png": "7cd76dbe9f912914f0bd6344ea03a42f832d362f70f7dac45ba8e32e65b1657c",
+    "figures/Figure3_timing_EN.png": "384f108bbb34f4d1a8312203bc3a5254b6ea8b96b0a10b3fbecf99abd843d989",
+    "tables/S1_all18_layers.csv": "f6210719fa2cc73868a3badff962d17cfcd51051d122cc1d38825c99e8b6facd",
+    "tables/S2_all68_layer_records.csv": "1d351711675fdfa690a4bfc0aa5db4265b245c8742e7903aa3dd7a2d9657b36e",
+    "tables/S3_global_M_28.csv": "cbe2e6869c1f85ad5d440f40e3ca99be13dc55336ef59e21d84b55142914c23e",
+    "tables/S4_global_P_17.csv": "88599eb33f9b028f13993923cf233880a97fff5da5306432e2091c648871aba5",
+    "tables/S5_paired14_timing.csv": "8d51a1d75930f4b8e4fc7d9cbaea2bb76dedf38689588259d7b2404075071f92",
+    "tables/S6_followup_run_status.csv": "99c9a8b03d25a24c333046e1aa7b26a3c3613ad0fb2412bd31d6a0dff5c3604c"
+  }
+}
